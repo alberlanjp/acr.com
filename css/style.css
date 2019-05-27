@@ -3956,3 +3956,7 @@ div.mce-fullscreen{z-index: 97;}
 .wc_domain_license_box_content p{
     margin-top: 20px;
 }
+
+.radius50{
+    border-radius: 50%;
+}
